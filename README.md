@@ -46,6 +46,3 @@ Actualmente estoy profundizando en:
 ---
 
 ⭐ Gracias por visitar mi perfil. Si te interesa colaborar o tenés alguna idea, ¡estoy abierto a conversar!
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RMancilla-rgb&theme=dracula)](https://git.io/streak-stats)
-
