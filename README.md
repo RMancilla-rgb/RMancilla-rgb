@@ -38,4 +38,4 @@
 
 ## 📫 Contacto
 📧 mancillarodrigo06@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+💼 [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://github.com/RMancilla-rgb))
