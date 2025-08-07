@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Rodrigo Mancilla</h1>
 <h3 align="center">Desarrollador Backend | Automatización | APIs</h3>
 
-<img src="https://i.ibb.co/xxxxxxx/banner.png" alt="Banner" width="100%">
-
 ---
 
 ## 🚀 Sobre mí
