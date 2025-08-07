@@ -32,7 +32,6 @@
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Registro de asistencia](https://github.com/RMancilla-rgb/registro-asistencia) | Sistema para control de asistencia escolar con reportes en Excel | Django, Python, MySQL |
-| API de Validación | API REST para validación de acceso a portillones | Node.js, Express, MongoDB |
 
 ---
 
