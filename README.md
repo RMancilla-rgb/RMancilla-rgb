@@ -1,48 +1,39 @@
-# 👋 Hola, soy Rodrigo
+<h1 align="center">Hola 👋, soy Rodrigo Mancilla</h1>
+<h3 align="center">Desarrollador Backend | Automatización | APIs</h3>
 
-Soy desarrollador con conocimientos en desarrollo web y automatización, principalmente usando **Python**, **JavaScript** y tecnologías relacionadas. Me interesa construir soluciones funcionales, bien estructuradas y orientadas a resolver problemas reales.
-
-## 🧠 Habilidades Técnicas
-
-- ⚙️ **Lenguajes de programación**: Python, JavaScript (ES6+), HTML, CSS
-- 🌐 **Frameworks y tecnologías**:
-  - Django (backend en Python)
-  - Node.js + Express (backend en JavaScript)
-  - Bootstrap (diseño web)
-  - APIs RESTful (creación y consumo)
-- 🗄️ **Bases de datos**: MySQL, SQLite, MongoDB (básico)
-- 🧰 **Herramientas y entornos**:
-  - Git & GitHub
-  - PythonAnywhere
-  - Postman
-  - VS Code
-  - npm
-- 📊 **Extras**:
-  - Automatización de tareas con scripts en Python
-  - Generación de reportes en Excel
-  - Despliegue básico de aplicaciones web
-
-## 🚧 Experiencia con proyectos
-
-- Desarrollo de aplicaciones web con autenticación, roles de usuario y carga masiva de datos
-- Creación de APIs REST con Django y Node.js (Express)
-- Consumo de APIs desde frontend en JavaScript
-- Sistemas de control de asistencia escolar y generación de informes automatizados
-- Automatización de procesos repetitivos mediante scripts
-- Validación de acceso para portillones mediante API REST
-
-## 📚 Siempre aprendiendo
-
-Actualmente estoy profundizando en:
-- Buenas prácticas en desarrollo backend con Django y Node.js
-- Seguridad y autenticación en APIs
-- Frameworks frontend modernos y JavaScript avanzado
-
-## 📫 Contacto
-
-- Email: mancillarodrigo06@email.com  
-- LinkedIn: https://github.com/RMancilla-rgb
+<img src="https://i.ibb.co/xxxxxxx/banner.png" alt="Banner" width="100%">
 
 ---
 
-⭐ Gracias por visitar mi perfil. Si te interesa colaborar o tenés alguna idea, ¡estoy abierto a conversar!
+## 🚀 Sobre mí
+💻 Desarrollador backend con experiencia en **Python, JavaScript, Django y Node.js**  
+⚙️ Apasionado por la **automatización** y la creación de **APIs REST**  
+📊 Generación de reportes y optimización de procesos  
+
+---
+
+## 🛠 Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+
+---
+
+## 📈 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RMancilla-rgb&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RMancilla-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Registro de asistencia](https://github.com/RMancilla-rgb/registro-asistencia) | Sistema para control de asistencia escolar con reportes en Excel | Django, Python, MySQL |
+| API de Validación | API REST para validación de acceso a portillones | Node.js, Express, MongoDB |
+
+---
+
+## 📫 Contacto
+📧 mancillarodrigo06@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
