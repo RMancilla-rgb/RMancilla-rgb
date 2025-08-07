@@ -38,4 +38,5 @@
 
 ## 📫 Contacto
 📧 mancillarodrigo06@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/RMancilla-rgb)
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-mancilla-b20441302)
+
